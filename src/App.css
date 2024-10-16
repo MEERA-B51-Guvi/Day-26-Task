@@ -1,0 +1,17 @@
+.nav-Link{
+ margin: 3%;
+ color:black;
+ 
+
+ border-bottom: gray 14px;
+ 
+}
+.nav-Link:hover {
+   text-decoration: underline;
+  color: green;
+  text-underline-offset: green;
+ text-decoration-color: gray;
+ 
+}
+
+
